@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java , PHP , Python , HTML , CSS**
 
-- 📫 How to reach me **Sumit.study.in@gmail.om**
+- 📫 How to reach me **Sumit.study.in@gmail.com**
 
 - ⚡ Fun fact **I am Gamer**
 
